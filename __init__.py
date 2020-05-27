@@ -1,1 +1,0 @@
-from gym_officeworld.envs.officeworld_env import OfficeWorld
